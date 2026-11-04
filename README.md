@@ -1,4 +1,4 @@
-# Olá, eu sou o Mateus Sousa 👋
+# Olá, me chamo Mateus Sousa 👋
 
 **Desenvolvedor Back-End | Análise e Desenvolvimento de Sistemas**
 
